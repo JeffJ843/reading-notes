@@ -15,3 +15,4 @@ From an element node, you can access and update its content using properties suc
 An element node can contain multiple text nodes and child elements that are siblings of each other. 
 In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery). 
 Browsers offer tools for viewing the DOM tree. 
+ 
